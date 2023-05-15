@@ -1,0 +1,1 @@
+fs.writeFile('file2.txt',"entering data into new file");
